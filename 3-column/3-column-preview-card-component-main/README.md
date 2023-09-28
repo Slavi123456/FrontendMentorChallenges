@@ -10,8 +10,8 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-![Alt text](image.png)
-![Alt text](image-1.png)
+![Alt text](myDekstopVersion.png)
+![Alt text](myMobileVersion.png)
 
 ### Links
 
